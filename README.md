@@ -1,12 +1,12 @@
 # face_detection
 Face Eye Smile Detection
 
-#Used libraries :
-+ opencv-python
+# Used libraries :
+  + opencv-python
 
 
-#Face
+# Face
 
-#Eye
+# Eye
 
-#Smile
+# Smile
